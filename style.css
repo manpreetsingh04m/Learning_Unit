@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;1,300&display=swap');
+body{
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+  background-position: center;
+  background-size: cover;
+  font-family: 'Lato', sans-serif;;
+}
+img{
+  width: 500px;
+}
+h1{
+  color: crimson;
+}
+p{
+  color: darkblue;
+  text-align: center;
+}
